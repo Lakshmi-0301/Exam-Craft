@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+*.py[cod]
+*.so
+
+# Virtual environments
+
+venv/
+.env/
+env/
+ENV/
+.venv/
+
+# Environment variables (IMPORTANT for API keys)
+
+.env
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# MacOS
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Python build artifacts
+
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage reports
+
+.coverage
+htmlcov/
+
+# Temporary files
+
+*.tmp
+*.swp
+
+# Secrets / credentials (extra safety)
+
+secrets.json
+config.json
+
+# Notebook outputs (optional - if you want clean diffs)
+
+# Uncomment if needed
+
+# *.ipynb
+
+# Data files (optional - adjust based on your project)
+
+# data/
+
+# *.csv
+
+# *.xlsx
